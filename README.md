@@ -1,1 +1,3 @@
 # nes-mouse
+tired of the same old mouse?
+now you can use this specific [controller](https://www.amazon.com/DOORGA-Controller-Joystick-Raspberry-Emulators/dp/B07W19W65Z/ref=sr_1_6?keywords=NES+usb&qid=1580800839&sr=8-6) as a computer mouse for any of your needs...
