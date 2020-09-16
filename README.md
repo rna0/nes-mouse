@@ -7,6 +7,7 @@ The game controller used for both the NES and the Famicom features an oblong bri
 ### Download
 
 You can get the latest build of nes.mouse in the release page since Feb 18.  
+
 ![>](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Ffc06.deviantart.net%2Ffs70%2Ff%2F2012%2F171%2F1%2Ff%2Fnes_controller_icon_by_nickhrh-d546smr.png) [Release nes.mouse.zip](https://github.com/rna0/nes-mouse/releases/tag/nes_mouse) - x86 for Windows 7, 8, and 10 
 
 -----
@@ -19,9 +20,12 @@ Buy a Direct input USB NES Controller from the web, I cannot give you links but 
 #### Usage
 
 1. open the "nes.mouse.zip" file and extract "nes mouse" folder to anyware you would like on your computer.
+
 2. connect your USB NES controller to the Computer before the next step.
+
 3. open "nes mouse.exe", minimize the window and enjoy!
 
 -----
 NES controllers are (c) Nintendo at nintendo.com
+
 This application is under the MIT Licence
