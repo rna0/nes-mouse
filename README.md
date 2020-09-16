@@ -27,18 +27,6 @@ Buy a Direct input USB NES Controller from the web, I cannot give you links but 
 
 
 -----
-#### version
-1.0 -
-first working version,
-A working NES to mouse
-you need to minimize window to continue
-1.1 - 
-made lighter
-less folders
-another icon for ststem tray (doouble click to close program)
-you don't have to minimize window to continue
-
------
 NES controllers are (c) Nintendo at nintendo.com
 
 This application is under the MIT Licence
