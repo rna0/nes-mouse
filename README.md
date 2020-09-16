@@ -1,7 +1,3 @@
-# nes-mouse
-tired of the same old mouse?
-now you can use this specific [controller](https://www.amazon.com/DOORGA-Controller-Joystick-Raspberry-Emulators/dp/B07W19W65Z/ref=sr_1_6?keywords=NES+usb&qid=1580800839&sr=8-6) as a computer mouse for any of your needs...
-
 ## nes gamepad to controlling a Windows Mouse
 The game controller used for both the NES and the Famicom features an oblong brick-like design with a simple four button layout: two round buttons labeled "A" and "B", a "START" button, and a "SELECT" button. Additionally, the controllers utilize the cross-shaped joypad, designed by Nintendo employee Gunpei Yokoi for Nintendo Game & Watch systems, to replace the bulkier joysticks on earlier gaming consoles' controllers.
 
@@ -13,6 +9,19 @@ The game controller used for both the NES and the Famicom features an oblong bri
 You can get the latest build of nes.mouse in the release page since Feb 18.  
 ![>](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Ffc06.deviantart.net%2Ffs70%2Ff%2F2012%2F171%2F1%2Ff%2Fnes_controller_icon_by_nickhrh-d546smr.png) [Release nes.mouse.zip](https://github.com/rna0/nes-mouse/releases/tag/nes_mouse) - x86 for Windows 7, 8, and 10 
 
+-----
+### Setup
 
+Buy a Direct input USB NES Controller from the web, I cannot give you links but there are alot.
+
+
+-----
+#### Usage
+
+1. open the "nes.mouse.zip" file and extract "nes mouse" folder to anyware you would like on your computer.
+2. connect your USB NES controller to the Computer before the next step.
+3. open "nes mouse.exe", minimize the window and enjoy!
+
+-----
 NES controllers are (c) Nintendo at nintendo.com
 This application is under the MIT Licence
