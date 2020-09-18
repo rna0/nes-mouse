@@ -49,12 +49,12 @@ You can get the latest build of nes.mouse in the release page since Feb 18.
 	Buttons are tracked as:
 	
 	
-	|A			|button 1		|
-	|B			|button 0		|
-	|START			|button 9		|
-	|SELECT			|button 8		|
-	|D-Pad DOWN/UP		|Position Y -/+100	|
-	|D-Pad LEFT/RIGHT	|Position X -/+100	|
+	|A		 |button 1		|
+	|B		 |button 0		|
+	|START		 |button 9		|
+	|SELECT		 |button 8		|
+	|D-Pad DOWN/UP   |Position Y -/+100	|
+	|D-Pad LEFT/RIGHT   |Position X -/+100	|
 
 *	user32.dll is used for cursur manipulation
 
