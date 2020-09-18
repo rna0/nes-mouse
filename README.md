@@ -35,12 +35,12 @@ You can get the latest build of nes.mouse in the release page since Feb 18.
 
 | NES BUTTON        | CURSUR MANIPULATION             |
 | ------------- |-------------|
-	|A		|Right Click		|
-	|B		|Left Click		|
-	|START		|Faster DPI		|
-	|SELECT		|Slower DPI		|
-	|D-Pad DOWN/UP	|Cursur DOWN/UP		|
-	|D-Pad LEFT/RIGHT   |Cursur LEFT/RIGHT	|
+|A		|Right Click		|
+|B		|Left Click		|
+|START		|Faster DPI		|
+|SELECT		|Slower DPI		|
+|D-Pad DOWN/UP	|Cursur DOWN/UP		|
+|D-Pad LEFT/RIGHT   |Cursur LEFT/RIGHT	|
 	
 * You may change the selected controller input if you have more than one the program from the program icon on the bottom right corner
 * You may exit the program from the program icon on the bottom right corner
