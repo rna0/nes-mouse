@@ -11,7 +11,7 @@ The game controller used for both the NES and the Famicom features an oblong bri
 
 You can get the latest build of nes.mouse in the release page since Feb 18.  
 
-![>](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Ffc06.deviantart.net%2Ffs70%2Ff%2F2012%2F171%2F1%2Ff%2Fnes_controller_icon_by_nickhrh-d546smr.png) [Release nes.mouse.zip](https://github.com/rna0/nes-mouse/releases/tag/nes_mouse) - x86 for Windows 7, 8, and 10 
+![>](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Ffc06.deviantart.net%2Ffs70%2Ff%2F2012%2F171%2F1%2Ff%2Fnes_controller_icon_by_nickhrh-d546smr.png) [Release nes.mouse.zip](https://github.com/rna0/nes-mouse/releases) - x86 for Windows 7, 8, and 10 
 
 -----
 ### Setup
