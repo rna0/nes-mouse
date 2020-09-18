@@ -48,7 +48,9 @@ You can get the latest build of nes.mouse in the release page since Feb 18.
 *	the Program tracks Direct Input signals from the controller using the [SlimDX Library](https://github.com/SlimDX/slimdx)
 	Buttons are tracked as:
 	
-	
+
+| NES BUTTON        | WINDOWS DIRECT INPUT FOR CONTROLLER            |
+| ------------- |-------------:|
  A                | button 1          
  B                | button 0          
  START            | button 9          
