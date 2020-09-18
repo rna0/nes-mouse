@@ -32,11 +32,11 @@ You can get the latest build of nes.mouse in the release page since Feb 18.
 
 -----
 #### Usage
-	|A					|Right Click		|
-	|B					|Left Click			|
-	|START				|Faster DPI			|
-	|SELECT				|Slower DPI			|
-	|D-Pad DOWN/UP		|Cursur DOWN/UP		|
+	|A		|Right Click		|
+	|B		|Left Click		|
+	|START		|Faster DPI		|
+	|SELECT		|Slower DPI		|
+	|D-Pad DOWN/UP	|Cursur DOWN/UP		|
 	|D-Pad LEFT/RIGHT   |Cursur LEFT/RIGHT	|
 	
 * You may change the selected controller input if you have more than one the program from the program icon on the bottom right corner
@@ -47,12 +47,12 @@ You can get the latest build of nes.mouse in the release page since Feb 18.
 
 *	the Program tracks Direct Input signals from the controller using the [SlimDX Library](https://github.com/SlimDX/slimdx)
 	Buttons are tracked as:
-	|A					|button 1			|
-	|B					|button 0			|
-	|START				|button 9			|
-	|SELECT				|button 8			|
+	|A			|button 1		|
+	|B			|button 0		|
+	|START			|button 9		|
+	|SELECT			|button 8		|
 	|D-Pad DOWN/UP		|Position Y -/+100	|
-	|D-Pad LEFT/RIGHT   |Position X -/+100	|
+	|D-Pad LEFT/RIGHT	|Position X -/+100	|
 
 *	user32.dll is used for cursur manipulation
 
