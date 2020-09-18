@@ -32,6 +32,9 @@ You can get the latest build of nes.mouse in the release page since Feb 18.
 
 -----
 #### Usage
+
+| NES BUTTON        | CURSUR MANIPULATION             |
+| ------------- |-------------|
 	|A		|Right Click		|
 	|B		|Left Click		|
 	|START		|Faster DPI		|
@@ -50,7 +53,7 @@ You can get the latest build of nes.mouse in the release page since Feb 18.
 	
 
 | NES BUTTON        | WINDOWS DIRECT INPUT FOR CONTROLLER            |
-| ------------- |-------------:|
+| ------------- |-------------|
  A                | button 1          
  B                | button 0          
  START            | button 9          
