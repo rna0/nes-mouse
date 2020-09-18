@@ -1,9 +1,8 @@
-﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.106
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nes mouse", "nes mouse\nes mouse.csproj", "{F66A7723-95B7-469D-858B-B77743B20178}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nes_mouse", "nes_mouse.csproj", "{0C8F0D82-9FEC-414E-A9D0-C1378562EF5C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +10,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F66A7723-95B7-469D-858B-B77743B20178}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F66A7723-95B7-469D-858B-B77743B20178}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F66A7723-95B7-469D-858B-B77743B20178}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F66A7723-95B7-469D-858B-B77743B20178}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C8F0D82-9FEC-414E-A9D0-C1378562EF5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C8F0D82-9FEC-414E-A9D0-C1378562EF5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C8F0D82-9FEC-414E-A9D0-C1378562EF5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C8F0D82-9FEC-414E-A9D0-C1378562EF5C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {A64F41B2-E333-4A74-84EF-5E08E114AA84}
+		SolutionGuid = {BE3945E5-1BB9-496B-897D-74395B63C815}
 	EndGlobalSection
 EndGlobal
