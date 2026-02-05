@@ -1,0 +1,7 @@
+<Project>
+  <PropertyGroup>
+    <!-- Disable folder-based namespace inference -->
+    <EnableDefaultCompileItems>true</EnableDefaultCompileItems>
+    <!-- Use explicit RootNamespace from each project, not folder structure -->
+  </PropertyGroup>
+</Project>
